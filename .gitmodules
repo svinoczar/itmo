@@ -2,3 +2,27 @@
 	path = 1st-semester/programming-labs/lab1
 	url = https://github.com/notsunshineITMO/s1-prog-lab1
 	branch = main
+[submodule "1st-semester/programming-labs/lab2"]
+	path = 1st-semester/programming-labs/lab2
+	url = https://github.com/notsunshineITMO/s1-prog-lab2
+	branch = main
+[submodule "1st-semester/computer-science-labs/lab1"]
+	path = 1st-semester/computer-science-labs/lab1
+	url = https://github.com/notsunshineITMO/s1-cs-lab1
+	branch = main
+[submodule "1st-semester/computer-science-labs/lab2"]
+	path = 1st-semester/computer-science-labs/lab2
+	url = https://github.com/notsunshineITMO/s1-cs-lab2
+	branch = main
+[submodule "1st-semester/computer-science-labs/lab3"]
+	path = 1st-semester/computer-science-labs/lab3
+	url = https://github.com/notsunshineITMO/s1-cs-lab3
+	branch = main
+[submodule "1st-semester/computer-science-labs/lab4"]
+	path = 1st-semester/computer-science-labs/lab4
+	url = https://github.com/notsunshineITMO/s1-cs-lab4
+	branch = main
+[submodule "1st-semester/computer-science-labs/lab5"]
+	path = 1st-semester/computer-science-labs/lab5
+	url = https://github.com/notsunshineITMO/s1-cs-lab5
+	branch = main
