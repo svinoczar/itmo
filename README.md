@@ -1,3 +1,7 @@
+# ***This repository is the hub for the other ITMO lab repositories. You can  navigate to them by hyperlinks in the readme or by submodules in the directories of this repository.***
+---
+
+
 ## Programming (Java):
 - [Introduction to Java (1st lab)](https://github.com/notsunshineITMO/s1-prog-lab1/tree/main)
 - ["Pokemons" - work with packages and OOP (2nd lab)](https://github.com/notsunshineITMO/s1-prog-lab2/tree/main)
