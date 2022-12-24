@@ -1,6 +1,6 @@
 # ITMO
-**This repository is the hub for the other ITMO lab repositories. You can  navigate to them by hyperlinks in the readme or by submodules in the directories of this repository.  
-This structure prevents github from being clogged with a bunch of small unimportant repositories ***(as if they were all on github.com/notsunshine)***, and also allows any user to clone any of these smaller repositories to their computer without any problems ***(as opposed to if they were all in one repository, like itmo-university or itmo-labs, and the user had to clone a relatively large repository just for one directory)***.**
+This repository is the hub for the other ITMO lab repositories. You can  navigate to them by hyperlinks in the readme or by submodules in the directories of this repository.  
+This structure prevents github from being clogged with a bunch of small unimportant repositories (as if they were all on github.com/notsunshine), and also allows any user to clone any of these smaller repositories to their computer without any problems (as opposed to if they were all in one repository, like itmo-university or itmo-labs, and the user had to clone a relatively large repository just for one directory).
   
 
 ## Programming (Java):
