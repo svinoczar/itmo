@@ -34,3 +34,11 @@
 	path = 1st-semester/programming-labs/lab4
 	url = https://github.com/notsunshineITMO/s1-prog-lab4
 	branch = main
+[submodule "1st-semester/basics-of-prof-activities/lab1"]
+	path = 1st-semester/basics-of-prof-activities/lab1
+	url = https://github.com/notsunshineITMO/s1-bpa-lab1
+	branch = main
+[submodule "1st-semester/basics-of-prof-activities/lab2"]
+	path = 1st-semester/basics-of-prof-activities/lab2
+	url = https://github.com/notsunshineITMO/s1-bpa-lab2
+	branch = main
