@@ -42,3 +42,7 @@
 	path = 1st-semester/basics-of-prof-activities/lab2
 	url = https://github.com/notsunshineITMO/s1-bpa-lab2
 	branch = main
+[submodule "1st-semester/1st-semester/computer-science/extra-task"]
+	path = 1st-semester/1st-semester/computer-science/extra-task
+	url = https://github.com/notsunshineITMO/s1-cs-extra
+	branch = main
