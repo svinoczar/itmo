@@ -19,4 +19,5 @@ This structure prevents github from being clogged with a bunch of small unimport
 - [Regular expressions (3rd lab)](https://github.com/notsunshineITMO/s1-cs-lab3/tree/main)
 - [Parsing (4th lab)](https://github.com/notsunshineITMO/s1-cs-lab4/tree/main)
 - [Tables (5th lab)](https://github.com/notsunshineITMO/s1-cs-lab5/tree/main)
+- [TG Bot (Extra task)](https://github.com/notsunshineITMO/s1-cs-extra/tree/main)
 
