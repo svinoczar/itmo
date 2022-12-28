@@ -46,3 +46,7 @@
 	path = 1st-semester/1st-semester/computer-science/extra-task
 	url = https://github.com/notsunshineITMO/s1-cs-extra
 	branch = main
+[submodule "1st-semester/computer-science-labs/extra-task"]
+	path = 1st-semester/computer-science-labs/extra-task
+	url = https://github.com/notsunshineITMO/s1-cs-extra
+	branch = main
