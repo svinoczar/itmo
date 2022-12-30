@@ -61,4 +61,4 @@
 [submodule "1st-semester/computer-science-labs/lab6"]
 	path = 1st-semester/computer-science-labs/lab6
 	url = https://github.com/notsunshineITMO/s1-cs-lab6
-	branch = .
+	branch = main
