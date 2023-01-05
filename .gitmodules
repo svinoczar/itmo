@@ -1,0 +1,4 @@
+[submodule "1st-semester/cs-basics/lab1"]
+	path = 1st-semester/cs-basics/lab1
+	url = https://github.com/notsunshineitmo/s1-bpa-lab1
+	branch = main
