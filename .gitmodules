@@ -18,3 +18,7 @@
 	path = 1st-semester/computer-science/lab2
 	url = https://github.com/notsunshineitmo/s1-cs-lab2
 	branch = main
+[submodule "1st-semester/computer-science/lab3"]
+	path = 1st-semester/computer-science/lab3
+	url = https://github.com/notsunshineitmo/s1-cs-lab3
+	branch = main
