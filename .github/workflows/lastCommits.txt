@@ -8,6 +8,6 @@ s1-cs-lab4: c03edcb70bbd7130f1c78bb3949fca5ef363ec64
 s1-cs-lab5: 9b08547e8ae8ba93f2e23a889783b8a0cfa834ec
 s1-cs-lab6: 355a5cc7c46fabc0aaa95c5c800d56ef083066a4
 s1-prog-lab1: ab1a9cc9d376ebfa3436e0a2c98c6118729f71c5
-s1-prog-lab2: {"message":"API rate limit exceeded for 13.87.244.130. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)","documentation_url":"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"}
-s1-prog-lab3: {"message":"API rate limit exceeded for 13.87.244.130. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)","documentation_url":"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"}
-s1-prog-lab4: {"message":"API rate limit exceeded for 13.87.244.130. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)","documentation_url":"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"}
+s1-prog-lab2: 99c7edfa3a1da814e969ccbe3437a3746aa4048f
+s1-prog-lab3: 1cb6e02c5ccfb97e1174f3483f987635c5cf51eb
+s1-prog-lab4: 789c4254b7af8b237275de7f1817b9051436463f
