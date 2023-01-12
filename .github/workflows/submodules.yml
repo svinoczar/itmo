@@ -19,7 +19,7 @@ jobs:
           mainRepo: ${{ github.repository }}
           httpsToken: ${{ secrets.PAT }}
         run: |
-          headerPrefix="###"
+          headerPrefix="##"
           echo $mainRepo
           git config --global user.name "GitHub Action"
           git config --global user.email "noreply@github.com"
