@@ -46,9 +46,11 @@ if [ "$lastCommitsCount" -gt "0" ]; then
         # git push
     fi
 else 
-    cp $newLastCommits $lastCommits
-    git add $lastCommits
-    git commit -m "updating last commits"
-    # if git status | grep -q modified; then git push; fi
-    # echo "change last commits"
+    if [ -s $newLastCommits ]; then
+        cp $newLastCommits $lastCommits
+        git add $lastCommits
+        git commit -m "updating last commits"
+        # if git status | grep -q modified; then git push; fi
+        # echo "change last commits"
+    fi
 fi
