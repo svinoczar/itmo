@@ -9,7 +9,8 @@ This structure prevents github from being clogged with a bunch of small unimport
 - [Introduction to Java (1st lab)](https://github.com/svinoczarITMO/s1-prog-lab1/tree/main)
 - ["Pokemons" - working with packages and OOP (2nd lab)](https://github.com/svinoczarITMO/s1-prog-lab2/tree/main)
 - [Object model creation (3rd lab)](https://github.com/svinoczarITMO/s1-prog-lab3/tree/main)
-- [Object model extension (4th lab)](https://github.com/svinoczarITMO/s1-prog-lab4/tree/main)
+- [Object model extension (4th lab)](https://github.com/svinoczarITMO/s1-prog-lab4/tree/main) 
+- [Console application for collections management (5th lab)](https://github.com/svinoczarITMO/s2-prog-lab5/tree/main)
 
 
 ## CS Basics (Basics of Professional Activity):
