@@ -3,3 +3,7 @@
 	path = 1st-semester/cs-basics/lab1
 	url = https://github.com/svinoczaritmo/s1-bpa-lab1
 	branch = main
+[submodule "1st-semester/cs-basics/lab2"]
+	path = 1st-semester/cs-basics/lab2
+	url = https://github.com/svinoczaritmo/s1-bpa-lab2
+	branch = main
