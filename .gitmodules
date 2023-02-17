@@ -27,3 +27,7 @@
 	path = 1st-semester/computer-science/lab4
 	url = https://github.com/svinoczaritmo/s1-cs-lab4
 	branch = main
+[submodule "1st-semester/computer-science/lab5"]
+	path = 1st-semester/computer-science/lab5
+	url = https://github.com/svinoczaritmo/s1-cs-lab5
+	branch = main
