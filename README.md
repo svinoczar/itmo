@@ -3,7 +3,7 @@ This repository is the hub for the other ITMO lab repositories. You can  navigat
 This structure prevents github from being clogged with a bunch of small unimportant repositories (as if they were all on github.com/svinoczar), and also allows any user to clone any of these smaller repositories to their computer without any problems (as opposed to if they were all in one repository, like itmo-university or itmo-labs, and the user had to clone a relatively large repository just for one directory).
 
 
-## Programming (Java):
+## Programming (Java/Kotlin):
 - [Introduction to Java (1st lab)](https://github.com/svinoczarITMO/s1-prog-lab1/tree/main)
 - ["Pokemons" - working with packages and OOP (2nd lab)](https://github.com/svinoczarITMO/s1-prog-lab2/tree/main)
 - [Object model creation (3rd lab)](https://github.com/svinoczarITMO/s1-prog-lab3/tree/main)
