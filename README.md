@@ -25,3 +25,6 @@ This structure prevents github from being clogged with a bunch of small unimport
 - [LaTex (6th lab)](https://github.com/svinoczarITMO/s1-cs-lab6/tree/main)
 - [TG Bot (Extra task)](https://github.com/svinoczarITMO/s1-cs-extra/tree/main)
 
+
+## Databases:
+- [Introduction to PostgreSQL (1st lab)](https://github.com/svinoczarITMO/s2-db-lab1)
