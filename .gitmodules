@@ -55,3 +55,7 @@
 	path = 2nd-semester/programming/lab5
 	url = https://github.com/svinoczaritmo/s2-prog-lab5
 	branch = main
+[submodule "2nd-semester/programming/lab6"]
+	path = 2nd-semester/programming/lab6
+	url = https://github.com/svinoczaritmo/s2-prog-lab6
+	branch = main
