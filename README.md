@@ -29,5 +29,5 @@ This structure prevents github from being clogged with a bunch of small unimport
 
 
 ## Databases:
-- [Introduction to PostgreSQL (1st lab)](https://github.com/svinoczarITMO/s2-db-lab1)
+- [Creating own db on the subject area (1st lab)](https://github.com/svinoczarITMO/s2-db-lab1)
 - [Queries to the university database (2nd lab)](https://github.com/svinoczarITMO/s2-db-lab2)
