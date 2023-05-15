@@ -29,6 +29,7 @@ This structure prevents github from being clogged with a bunch of small unimport
 
 
 ## Databases:
-- [Creating own db on the subject area (1st lab)](https://github.com/svinoczarITMO/s2-db-lab1)
+- [Creating own database on the subject area (1st lab)](https://github.com/svinoczarITMO/s2-db-lab1)
 - [Queries to the university database (2nd lab)](https://github.com/svinoczarITMO/s2-db-lab2)
 - [Bringing the database from the 1st lab to a normal form (BCNF) (3rd lab)](https://github.com/svinoczarITMO/s2-db-lab3)
+- [Queries to the university database, work with indexes (4th lab)](https://github.com/svinoczarITMO/s2-db-lab4)
