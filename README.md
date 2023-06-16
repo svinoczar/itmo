@@ -11,6 +11,7 @@ This structure prevents github from being clogged with a bunch of small unimport
 - [Console application for collections management (5th lab)](https://github.com/svinoczarITMO/s2-prog-lab5/tree/main)
 - [Client-Server application for collections managment (6th lab)](https://github.com/svinoczarITMO/s2-prog-lab6)
 - [Multi-threaded client-server application for database management (7th lab)](https://github.com/svinoczarITMO/s2-prog-lab7)
+- [GUI for multi-threaded client-server application for database management (8th lab)](https://github.com/svinoczarITMO/s2-prog-lab8)
 
 
 ## CS Basics (Basics of Professional Activity):
