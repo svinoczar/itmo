@@ -79,3 +79,7 @@
 	path = 2nd-semester/databases/lab4
 	url = https://github.com/svinoczaritmo/s2-db-lab4
 	branch = main
+[submodule "2nd-semester/programming/lab8"]
+	path = 2nd-semester/programming/lab8
+	url = https://github.com/svinoczaritmo/s2-prog-lab8
+	branch = main
