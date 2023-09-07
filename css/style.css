@@ -1,0 +1,49 @@
+header{
+    border-width: 10px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* селектор идентификаторов */
+#form {
+    background-color: whitesmoke;
+    padding: 10px;
+  }
+  
+  #error_div {
+    color: rgba(239, 254, 255, 0.819);
+  } */
+  
+  /* селектор псевдоэлемента */
+  /* #slider-value::before {
+    content: "x: ";
+    font-weight: bold;
+  } */
+  
+  /* селектор псевдокласса */
+  /* button.submitBtn:hover {
+    background-color: yellow;
+    color: black;
+  } */
+  
+  /* наследование */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(104, 95, 154);
+  }
+  
+  /* каскадирование */
+th {
+    font-weight: bold;
+    text-align: center;
+    background-color: whitesmoke;
+  }
+  
+  th, td {
+    padding: 5px;
+    border: 1px solid black;
+  }
+  
+  #result-table th {
+    background-color: lightgreen;
+  } 
