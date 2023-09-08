@@ -83,3 +83,7 @@
 	path = 2nd-semester/programming/lab8
 	url = https://github.com/svinoczaritmo/s2-prog-lab8
 	branch = main
+[submodule "3rd-semester/web-programming/lab1"]
+	path = 3rd-semester/web-programming/lab1
+	url = https://github.com/svinoczaritmo/s3-web-lab1
+	branch = main
