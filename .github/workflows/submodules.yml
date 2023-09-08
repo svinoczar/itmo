@@ -1,0 +1,45 @@
+name: Submodule work
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 */1 * * *
+  push:
+      paths:
+        - 'README.md'
+jobs:
+  submodule:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT }}
+          submodules: recursive
+      - name: Submodule update
+        env:
+          mainRepo: ${{ github.repository }}
+          httpsToken: ${{ secrets.PAT }}
+        run: |
+          headerPrefix="##"
+          echo $mainRepo
+          git config --global user.name "GitHub Action"
+          git config --global user.email "noreply@github.com"
+          orgName=$(echo $mainRepo | tr -d "/")
+          chmod +x .github/workflows/*.sh
+          grep1="\(https:\/\/github\.com\/${orgName}\/[a-zA-Z0-9\-]{1,}(\/tree\/main)?\)"
+          grep2="(?<=url = https:\/\/github\.com\/${orgName}\/)[a-zA-Z0-9\-\.]{1,}"
+          curl -H "Authorization: token ${httpsToken}" -H 'Cache-Control: no-cache, no-store' -s https://raw.githubusercontent.com/${mainRepo}/main/README.md | grep -i -o -P "$grep1" | grep -o -P 's[0-9]-[a-zA-Z0-9]{1,}-[a-zA-Z0-9]{1,}' | sort > readmeRepos.tmp
+          sleep 5
+          curl -H "Authorization: token ${httpsToken}" -H 'Cache-Control: no-cache, no-store' -s https://raw.githubusercontent.com/${mainRepo}/main/.gitmodules | grep -i -o -P "$grep2" | sort > submoduleRepos.tmp
+          comm -13 submoduleRepos.tmp readmeRepos.tmp > newRepos.tmp
+          newReposCount=$(cat newRepos.tmp | wc -l)
+          
+          sed -i 's/\r$//' .github/workflows/addSubmodules.sh
+          if [ "$newReposCount" -gt "0" ]; then ./.github/workflows/addSubmodules.sh "$headerPrefix" "$orgName"; fi
+          
+          sed -i 's/\r$//' .github/workflows/renameCheck.sh
+          ./.github/workflows/renameCheck.sh "$orgName" "$headerPrefix"
+          
+          sed -i 's/\r$//' .github/workflows/updateSubmodules.sh
+          ./.github/workflows/updateSubmodules.sh "${httpsToken}" "${orgName}"
+          
+          git push
