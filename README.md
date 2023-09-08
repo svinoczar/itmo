@@ -37,4 +37,4 @@ This structure prevents github from being clogged with a bunch of small unimport
 
 
 ## Web programming:
-- [Introduction to web development(1st lab)](https://github.com/svinoczarITMO/s3-web-lab1/tree/main)
+- [Introduction to web development (1st lab)](https://github.com/svinoczarITMO/s3-web-lab1/tree/main)
