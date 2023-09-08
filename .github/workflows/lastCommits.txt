@@ -19,3 +19,4 @@ s2-prog-lab5: f089a46a4a52deb2f7b6bf92da287a2df74a0391
 s2-prog-lab6: 91d9d563c2bf67a9748c8a1962271ec047aea0c7
 s2-prog-lab7: a6ebb4bc6600d4b4b1a2e4e50d936d9d194bb1ce
 s2-prog-lab8: df0fb92410bd45deccaad34d035383dd55cc0bc9
+s3-web-lab1: 5cfab00309172e7dcc83a9b80744733eb66c4a9a
