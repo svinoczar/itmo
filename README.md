@@ -9,9 +9,9 @@ This structure prevents github from being clogged with a bunch of small unimport
 - [Object model creation (3rd lab)](https://github.com/svinoczarITMO/s1-prog-lab3/tree/main)
 - [Object model extension (4th lab)](https://github.com/svinoczarITMO/s1-prog-lab4/tree/main) 
 - [Console application for collections management (5th lab)](https://github.com/svinoczarITMO/s2-prog-lab5/tree/main)
-- [Client-Server application for collections managment (6th lab)](https://github.com/svinoczarITMO/s2-prog-lab6)
-- [Multi-threaded client-server application for database management (7th lab)](https://github.com/svinoczarITMO/s2-prog-lab7)
-- [GUI for multi-threaded client-server application for database management (8th lab)](https://github.com/svinoczarITMO/s2-prog-lab8)
+- [Client-Server application for collections managment (6th lab)](https://github.com/svinoczarITMO/s2-prog-lab6/tree/main)
+- [Multi-threaded client-server application for database management (7th lab)](https://github.com/svinoczarITMO/s2-prog-lab7/tree/main)
+- [GUI for multi-threaded client-server application for database management (8th lab)](https://github.com/svinoczarITMO/s2-prog-lab8/tree/main)
 
 
 ## CS Basics (Basics of Professional Activity):
@@ -30,11 +30,12 @@ This structure prevents github from being clogged with a bunch of small unimport
 
 
 ## Databases:
-- [Creating own database on the subject area (1st lab)](https://github.com/svinoczarITMO/s2-db-lab1)
-- [Queries to the university database (2nd lab)](https://github.com/svinoczarITMO/s2-db-lab2)
-- [Bringing the database from the 1st lab to a normal form (BCNF) (3rd lab)](https://github.com/svinoczarITMO/s2-db-lab3)
-- [Queries to the university database, work with indexes (4th lab)](https://github.com/svinoczarITMO/s2-db-lab4)
+- [Creating own database on the subject area (1st lab)](https://github.com/svinoczarITMO/s2-db-lab1/tree/main)
+- [Queries to the university database (2nd lab)](https://github.com/svinoczarITMO/s2-db-lab2/tree/main)
+- [Bringing the database from the 1st lab to a normal form (BCNF) (3rd lab)](https://github.com/svinoczarITMO/s2-db-lab3/tree/main)
+- [Queries to the university database, work with indexes (4th lab)](https://github.com/svinoczarITMO/s2-db-lab4/tree/main)
 
 
 ## Web programming:
 - [Introduction to web development (1st lab)](https://github.com/svinoczarITMO/s3-web-lab1/tree/main)
+- [Work with Java Servlets (2nd lab)](https://github.com/svinoczarITMO/s3-web-lab2/tree/main)
