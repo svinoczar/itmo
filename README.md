@@ -39,3 +39,4 @@ This structure prevents github from being clogged with a bunch of small unimport
 ## Web programming:
 - [Introduction to web development (1st lab)](https://github.com/svinoczarITMO/s3-web-lab1/tree/main)
 - [Work with Java Servlets (2nd lab)](https://github.com/svinoczarITMO/s3-web-lab2/tree/main)
+- [Work with JSF Framework & managed beans (3rd lab)](https://github.com/ovchi17/ConfirmedWebLab3/tree/svinoczar)
