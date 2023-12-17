@@ -40,3 +40,5 @@ This structure prevents github from being clogged with a bunch of small unimport
 - [Introduction to web development (1st lab)](https://github.com/svinoczarITMO/s3-web-lab1/tree/main)
 - [Work with Java Servlets (2nd lab)](https://github.com/svinoczarITMO/s3-web-lab2/tree/main)
 - [Work with JSF Framework, managed beans & db (3rd lab)](https://github.com/svinoczarITMO/s3-web-lab3)
+- [Work with Spring Framework (back) + Angular (front) (4th lab)](https://github.com/svinoczarITMO/s3-web-lab3)
+
