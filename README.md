@@ -42,3 +42,7 @@ This structure prevents github from being clogged with a bunch of small unimport
 - [Work with JSF Framework, managed beans & db (3rd lab)](https://github.com/svinoczarITMO/s3-web-lab3)
 - [Work with Spring Framework (back) + Angular (front) (4th lab)](https://github.com/svinoczarITMO/s3-web-lab4)
 
+
+## Algorithms and Data Structures
+- [Basic data structures & algorithms on Stepik.org course](https://github.com/svinoczarITMO/s4-dsa-stepik)
+
