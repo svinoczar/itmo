@@ -44,5 +44,5 @@ This structure prevents github from being clogged with a bunch of small unimport
 
 
 ## Algorithms and Data Structures
-- [Basic data structures & algorithms on Stepik.org course](https://github.com/svinoczarITMO/s4-dsa-stepik)
+- [Basic data structures & algorithms from Stepik.org course](https://github.com/svinoczarITMO/s4-dsa-stepik)
 
