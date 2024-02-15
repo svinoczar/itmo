@@ -1,5 +1,3 @@
-  "documentation_url": "https://docs.github.com/rest/commits/commits#get-a-commit"
-  "message": "No commit found for SHA: main",
 s1-bpa-lab1: 498a3400504372b5a998cc7c28160b0f828bd31e
 s1-bpa-lab2: d3c2c1070f973e119a6957aba32163138aa94f8f
 s1-cs-extra: fb7f5e798dc96baaa0fbc57a2d8e6b37450e3276
@@ -23,5 +21,3 @@ s2-prog-lab7: a6ebb4bc6600d4b4b1a2e4e50d936d9d194bb1ce
 s2-prog-lab8: df0fb92410bd45deccaad34d035383dd55cc0bc9
 s3-web-lab1: b7e514c2ee42c56f016c71a3785da92a1e46deae
 s3-web-lab2: 9499c4c756e70494c596ee133c50b5ed6e66174e
-s3-web-lab3: {
-}
