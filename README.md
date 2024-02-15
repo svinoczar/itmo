@@ -1,5 +1,5 @@
 # ITMO
-⚠️ ***submodules* for new repos temporarily unavailable***
+[//]: # "⚠️ ***submodules* for new repos temporarily unavailable***"
 
 
 This repository is the hub for the other ITMO lab repositories. You can  navigate to them by hyperlinks in the readme or by **submodules*** in the directories of this repository.  
