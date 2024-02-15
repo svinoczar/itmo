@@ -91,10 +91,6 @@
 	path = 3rd-semester/web-programming/lab2
 	url = https://github.com/svinoczaritmo/s3-web-lab2
 	branch = main
-[submodule "3rd-semester/web-programming/lab3"]
-	path = 3rd-semester/web-programming/lab3
-	url = https://github.com/svinoczaritmo/s3-web-lab3
-	branch = main
 [submodule "4th-semester/algorithms-and-data-structures/stepik"]
 	path = 4th-semester/algorithms-and-data-structures/stepik
 	url = https://github.com/svinoczaritmo/s4-dsa-stepik
