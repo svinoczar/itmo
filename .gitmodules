@@ -103,3 +103,7 @@
 	path = 3rd-semester/web-programming/lab4
 	url = https://github.com/svinoczaritmo/s3-web-lab4
 	branch = main
+[submodule "4th-semester/computer-system-architecture/lab2"]
+	path = 4th-semester/computer-system-architecture/lab2
+	url = https://github.com/svinoczaritmo/s4-csa-lab2
+	branch = main
