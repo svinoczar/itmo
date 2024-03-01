@@ -45,8 +45,8 @@ This structure prevents github from being clogged with a bunch of small unimport
 ## Algorithms and Data Structures:
 - [Basic data structures & algorithms from Stepik.org course](https://github.com/svinoczarITMO/s4-dsa-stepik)
 
-## Computer System Architecture (csa):
+## Computer System Architecture:
 - [Computer System Architecture essays](https://github.com/svinoczarITMO/s4-csa-lab2)
 
 ## Computational Mathematics:
-- [Approximation and interpolation](https://github.com/svinoczarITMO/s4-computmath-lab1)
+- [Approximation and interpolation](https://github.com/svinoczarITMO/s4-compmath-lab1)
