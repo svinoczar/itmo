@@ -39,11 +39,14 @@ This structure prevents github from being clogged with a bunch of small unimport
 - [Work with JSF Framework, managed beans & db (3rd lab)](https://github.com/svinoczarITMO/s3-web-lab3/tree/main)
 - [Work with Spring Framework (back) + Angular (front) (4th lab)](https://github.com/svinoczarITMO/s3-web-lab4/tree/main)
 
-## Programming languages (C lang)
+## Programming languages (C lang):
 - [Image rotation assignment](https://github.com/svinoczarITMO/s3-pl-lab1)
 
-## Algorithms and Data Structures
+## Algorithms and Data Structures:
 - [Basic data structures & algorithms from Stepik.org course](https://github.com/svinoczarITMO/s4-dsa-stepik)
 
-## Computer System Architecture (csa)
+## Computer System Architecture (csa):
 - [Computer System Architecture essays](https://github.com/svinoczarITMO/s4-csa-lab2)
+
+## Computational Mathematics:
+- [Approximation and interpolation](https://github.com/svinoczarITMO/s4-computmath-lab1)
