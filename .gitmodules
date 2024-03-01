@@ -111,3 +111,7 @@
 	path = 3rd-semester/programming-languages/lab1
 	url = https://github.com/svinoczaritmo/s3-pl-lab1
 	branch = main
+[submodule "4th-semester/computational-mathematics/lab1"]
+	path = 4th-semester/computational-mathematics/lab1
+	url = https://github.com/svinoczaritmo/s4-computmath-lab1
+	branch = main
