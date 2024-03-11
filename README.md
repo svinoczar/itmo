@@ -51,3 +51,6 @@ This structure prevents github from being clogged with a bunch of small unimport
 
 ## Computational Mathematics:
 - [Approximation and interpolation](https://github.com/svinoczarITMO/s4-compmath-lab1)
+
+## Basics of Software Engenereing
+- [Software Requirements Specification](https://github.com/svinoczarITMO/s4-bse-lab1)
