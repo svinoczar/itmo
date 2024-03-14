@@ -29,3 +29,4 @@ s4-compmath-lab1: fc21d7ddcf7aa85d109542df86552b7c4fb8275b
 s4-csa-lab2: 6cb0e702c65f6f6f006eefa0e0d9eabc1110ee57
 s4-dsa-codeforces: f4917ec004e1d8bc5ce7aaa0ae60eb94ec8541a5
 s4-dsa-stepik: 1a9362068fc4d66b69093c8988fb5180269fb24a
+s4-mathstat-lab1: 00055660bd5a064b1599edba762417008fc801e8
