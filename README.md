@@ -54,3 +54,6 @@ This structure prevents github from being clogged with a bunch of small unimport
 
 ## Basics of Software Engenereing
 - [Software Requirements Specification](https://github.com/svinoczarITMO/s4-bse-lab1)
+
+## Mathematical Statistics
+- [Distribution](https://github.com/svinoczarITMO/s4-mathstat-lab1)
