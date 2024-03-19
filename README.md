@@ -57,3 +57,6 @@ This structure prevents github from being clogged with a bunch of small unimport
 
 ## Mathematical Statistics
 - [Distribution](https://github.com/svinoczarITMO/s4-mathstat-lab1)
+
+## Optimization Methods
+- [Univariate optimization](https://github.com/svinoczarITMO/s4-methops-lab2)
