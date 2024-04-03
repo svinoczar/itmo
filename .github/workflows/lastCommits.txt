@@ -28,7 +28,7 @@ s4-bse-lab1: f7c37f8ddac7934d32f4587249bba563afce628c
 s4-compmath-lab1: fc21d7ddcf7aa85d109542df86552b7c4fb8275b
 s4-compmath-lab2: cde198c0005a9f129ac403a510e47eb7227de910
 s4-csa-lab2: b7ecea33498a2cb9bda4647445cee7b794d2fdd7
-s4-dsa-codeforces: a11e660c576f6318ef7ee2abb81e900c646f149a
+s4-dsa-codeforces: efe0d2a85cecc91ae170aaffaaccc1bae8a61b32
 s4-dsa-stepik: 1a9362068fc4d66b69093c8988fb5180269fb24a
 s4-mathstat-lab1: 00055660bd5a064b1599edba762417008fc801e8
 s4-methops-lab2: d4c95697ff6f90e969638775a0531f2793657552
