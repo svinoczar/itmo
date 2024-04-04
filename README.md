@@ -51,7 +51,8 @@ This structure prevents github from being clogged with a bunch of small unimport
 
 ## Computational Mathematics:
 - [Approximation and interpolation](https://github.com/svinoczarITMO/s4-compmath-lab1)
-- [SLAE solution](https://github.com/svinoczarITMO/s4-compmath-lab2)
+- [SLAE solution by Cholesky](https://github.com/svinoczarITMO/s4-compmath-lab2)
+- [SNAE solution by Newtone](https://github.com/svinoczarITMO/s4-compmath-lab3)
 
 ## Basics of Software Engenereing
 - [Software Requirements Specification](https://github.com/svinoczarITMO/s4-bse-lab1)
@@ -61,3 +62,4 @@ This structure prevents github from being clogged with a bunch of small unimport
 
 ## Optimization Methods
 - [Univariate optimization](https://github.com/svinoczarITMO/s4-methops-lab2)
+- [Quadratic approximation](https://github.com/svinoczarITMO/s4-methops-lab3)
