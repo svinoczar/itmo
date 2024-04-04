@@ -139,3 +139,7 @@
 	path = 4th-semester/computational-mathematics/lab3
 	url = https://github.com/svinoczaritmo/s4-compmath-lab3
 	branch = main
+[submodule "4th-semester/optimization-methods/lab3"]
+	path = 4th-semester/optimization-methods/lab3
+	url = https://github.com/svinoczaritmo/s4-methops-lab3
+	branch = main
