@@ -54,6 +54,7 @@ This structure prevents github from being clogged with a bunch of small unimport
 - [SLAE solution by Cholesky](https://github.com/svinoczarITMO/s4-compmath-lab2)
 - [SNAE solution by Newtone](https://github.com/svinoczarITMO/s4-compmath-lab3)
 - [Integration by the method of average rectangles](https://github.com/svinoczarITMO/s4-compmath-lab4)
+- [Solution of ODE by the Euler method](https://github.com/svinoczarITMO/s4-compmath-lab5)
 
 ## Basics of Software Engenereing
 - [Software Requirements Specification](https://github.com/svinoczarITMO/s4-bse-lab1)
