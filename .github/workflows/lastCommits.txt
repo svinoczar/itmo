@@ -29,7 +29,7 @@ s4-compmath-lab1: fc21d7ddcf7aa85d109542df86552b7c4fb8275b
 s4-compmath-lab2: cde198c0005a9f129ac403a510e47eb7227de910
 s4-compmath-lab3: befce39e8b6da513e5f0afc32c54beaa11c1456e
 s4-compmath-lab4: 73391a8e1404b5ea423f0764314d7d8b3db830a3
-s4-compmath-lab5: f3c4d6dffa74fd7c9210d3fc6ec539ed9d7cc441
+s4-compmath-lab5: 8519d2d34a2df504e4e0f581593a3ca469015946
 s4-csa-lab2: b7ecea33498a2cb9bda4647445cee7b794d2fdd7
 s4-dsa-codeforces: efe0d2a85cecc91ae170aaffaaccc1bae8a61b32
 s4-dsa-stepik: 1a9362068fc4d66b69093c8988fb5180269fb24a
