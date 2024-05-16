@@ -171,3 +171,7 @@
 	path = 4th-semester/basics-of-software-engenereing/lab3
 	url = https://github.com/svinoczaritmo/s4-bse-lab3
 	branch = main
+[submodule "4th-semester/mathematical-statistics/lab4"]
+	path = 4th-semester/mathematical-statistics/lab4
+	url = https://github.com/svinoczaritmo/s4-mathstat-lab4
+	branch = main
