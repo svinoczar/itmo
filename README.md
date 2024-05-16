@@ -65,6 +65,7 @@ This structure prevents github from being clogged with a bunch of small unimport
 - [Distribution](https://github.com/svinoczarITMO/s4-mathstat-lab1)
 - [Bayesian estimation](https://github.com/svinoczarITMO/s4-mathstat-lab2)
 - [Confidence interval](https://github.com/svinoczarITMO/s4-mathstat-lab3)
+- [Statistical tests] (https://github.com/svinoczarITMO/s4-mathstat-lab4)
 
 ## Optimization Methods
 - [Univariate optimization](https://github.com/svinoczarITMO/s4-methops-lab2)
