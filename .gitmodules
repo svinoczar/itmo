@@ -175,3 +175,7 @@
 	path = 4th-semester/mathematical-statistics/lab4
 	url = https://github.com/svinoczaritmo/s4-mathstat-lab4
 	branch = main
+[submodule "4th-semester/mathematical-statistics/lab5"]
+	path = 4th-semester/mathematical-statistics/lab5
+	url = https://github.com/svinoczaritmo/s4-mathstat-lab5
+	branch = main
