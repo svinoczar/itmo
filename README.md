@@ -72,3 +72,4 @@ This structure prevents github from being clogged with a bunch of small unimport
 - [Univariate optimization](https://github.com/svinoczarITMO/s4-methops-lab2)
 - [Quadratic approximation](https://github.com/svinoczarITMO/s4-methops-lab3)
 - [Unconditional minimization](https://github.com/svinoczarITMO/s4-methops-lab4)
+- [TSP (Travelling Salesman Problem)](https://github.com/svinoczarITMO/s4-methops-lab6)
