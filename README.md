@@ -60,6 +60,7 @@ This structure prevents github from being clogged with a bunch of small unimport
 - [Software Requirements Specification](https://github.com/svinoczarITMO/s4-bse-lab1)
 - [Basic GIT & SVN skills](https://github.com/svinoczarITMO/s4-bse-lab2)
 - [Apache Ant script](https://github.com/svinoczarITMO/s4-bse-lab3)
+- [Manage Beans & profiling](https://github.com/svinoczarITMO/s4-bse-lab4)
 
 ## Mathematical Statistics
 - [Distribution](https://github.com/svinoczarITMO/s4-mathstat-lab1)
