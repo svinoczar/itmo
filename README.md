@@ -74,3 +74,9 @@ This structure prevents github from being clogged with a bunch of small unimport
 - [Quadratic approximation](https://github.com/svinoczarITMO/s4-methops-lab3)
 - [Unconditional minimization](https://github.com/svinoczarITMO/s4-methops-lab4)
 - [TSP (Travelling Salesman Problem)](https://github.com/svinoczarITMO/s4-methops-lab6)
+
+## Artificial Intelligence Systems
+- [Prolog and knowledge base](https://github.com/svinoczarITMO/s5-ais-lab1)
+
+## Functional Programming
+- [All 4 labs](https://github.com/svinoczarITMO/s5-fp-labs)
