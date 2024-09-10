@@ -191,10 +191,6 @@
 	path = 5th-semester/artificial-intelligence-systems/lab1
 	url = https://github.com/svinoczaritmo/s5-ais-lab1
 	branch = main
-[submodule "5th-semester/functional-programming/labs"]
-	path = 5th-semester/functional-programming/labs
-	url = https://github.com/svinoczaritmo/s5-fp-labs
-	branch = main
 [submodule "5th-semester/functional-programming/lab0"]
 	path = 5th-semester/functional-programming/lab0
 	url = https://github.com/svinoczaritmo/s5-fp-lab0
