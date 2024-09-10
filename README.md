@@ -79,4 +79,4 @@ This structure prevents github from being clogged with a bunch of small unimport
 - [Prolog and knowledge base](https://github.com/svinoczarITMO/s5-ais-lab1)
 
 ## Functional Programming
-- [All 4 labs](https://github.com/svinoczarITMO/s5-fp-labs)
+- [Choosing func language essay](https://github.com/svinoczarITMO/s5-fp-lab0)
