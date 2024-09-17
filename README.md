@@ -76,7 +76,8 @@ This structure prevents github from being clogged with a bunch of small unimport
 - [TSP (Travelling Salesman Problem)](https://github.com/svinoczarITMO/s4-methops-lab6)
 
 ## Artificial Intelligence Systems
-- [Prolog and knowledge base](https://github.com/svinoczarITMO/s5-ais-lab1)
+- [Knowledge base (prolog) and ontology (protege)](https://github.com/svinoczarITMO/s5-ais-lab1)
+- [Decision support system](https://github.com/svinoczarITMO/s5-ais-lab2)
 
 ## Functional Programming
 - [Choosing func language essay](https://github.com/svinoczarITMO/s5-fp-lab0)
