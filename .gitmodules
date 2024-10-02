@@ -199,3 +199,7 @@
 	path = 5th-semester/artificial-intelligence-systems/lab2
 	url = https://github.com/svinoczaritmo/s5-ais-lab2
 	branch = main
+[submodule "5th-semester/artificial-intelligence-systems/lab3"]
+	path = 5th-semester/artificial-intelligence-systems/lab3
+	url = https://github.com/svinoczaritmo/s5-ais-lab3
+	branch = main
