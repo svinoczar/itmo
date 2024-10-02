@@ -78,6 +78,8 @@ This structure prevents github from being clogged with a bunch of small unimport
 ## Artificial Intelligence Systems
 - [Knowledge base (prolog) and ontology (protege)](https://github.com/svinoczarITMO/s5-ais-lab1)
 - [Decision support system](https://github.com/svinoczarITMO/s5-ais-lab2)
+- [Linear Regression](https://github.com/svinoczarITMO/s5-ais-lab3)
 
 ## Functional Programming
 - [Choosing func language essay](https://github.com/svinoczarITMO/s5-fp-lab0)
+- [Project Euler](https://github.com/svinoczarITMO/s5-fp-lab1)
