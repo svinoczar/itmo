@@ -207,3 +207,7 @@
 	path = 5th-semester/functional-programming/lab1
 	url = https://github.com/svinoczaritmo/s5-fp-lab1
 	branch = main
+[submodule "5th-semester/database-management-systems/lab1"]
+	path = 5th-semester/database-management-systems/lab1
+	url = https://github.com/svinoczaritmo/s5-dbms-lab1
+	branch = main
