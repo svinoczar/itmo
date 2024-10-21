@@ -86,6 +86,7 @@ This structure prevents github from being clogged with a bunch of small unimport
 
 ## DataBase Management Systems
 - [Introduction to PL/SQL](https://github.com/svinoczarITMO/s5-dbms-lab1)
+- [Initialization and configuring the db cluster](https://github.com/svinoczarITMO/s5-dbms-lab2)
 
 ## Operating Systems (base track)
 - [Writing, monitoring and profiling of the command shell](https://github.com/svinoczarITMO/s5-os-lab1)
