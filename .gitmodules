@@ -223,3 +223,7 @@
 	path = 5th-semester/functional-programming/lab2
 	url = https://github.com/svinoczaritmo/s5-fp-lab2
 	branch = main
+[submodule "5th-semester/artificial-intelligence-systems/lab4"]
+	path = 5th-semester/artificial-intelligence-systems/lab4
+	url = https://github.com/svinoczaritmo/s5-ais-lab4
+	branch = main
