@@ -81,6 +81,7 @@ This structure prevents github from being clogged with a bunch of small unimport
 - [Linear Regression](https://github.com/svinoczarITMO/s5-ais-lab3)
 - [K-NN](https://github.com/svinoczarITMO/s5-ais-lab4)
 - [Decision Tree](https://github.com/svinoczarITMO/s5-ais-lab5)
+- [Logistic regression](github.com/svinoczarITMO/s5-ais-lab6)
 
 ## Functional Programming
 - [Choosing func language essay](https://github.com/svinoczarITMO/s5-fp-lab0)
