@@ -87,6 +87,7 @@ This structure prevents github from being clogged with a bunch of small unimport
 - [Choosing func language essay](https://github.com/svinoczarITMO/s5-fp-lab0)
 - [Project Euler](https://github.com/svinoczarITMO/s5-fp-lab1)
 - [Custom data structure (rb-bag)](https://github.com/svinoczarITMO/s5-fp-lab2)
+- [Interpolation](https://github.com/svinoczarITMO/s5-fp-lab3)
 
 ## DataBase Management Systems
 - [Introduction to PL/SQL](https://github.com/svinoczarITMO/s5-dbms-lab1)
