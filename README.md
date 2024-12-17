@@ -88,6 +88,7 @@ This structure prevents github from being clogged with a bunch of small unimport
 - [Project Euler](https://github.com/svinoczarITMO/s5-fp-lab1)
 - [Custom data structure (rb-bag)](https://github.com/svinoczarITMO/s5-fp-lab2)
 - [Interpolation](https://github.com/svinoczarITMO/s5-fp-lab3)
+- [Finite State Machine eDSL](github.com/svinoczarITMO/s5-fp-lab4)
 
 ## DataBase Management Systems
 - [Introduction to PL/SQL](https://github.com/svinoczarITMO/s5-dbms-lab1)
@@ -95,3 +96,5 @@ This structure prevents github from being clogged with a bunch of small unimport
 
 ## Operating Systems (base track)
 - [Writing, monitoring and profiling of the command shell](https://github.com/svinoczarITMO/s5-os-lab1)
+
+- [Adaptive Replacement Cache (ARC) implementation](github.com/svinoczarITMO/s5-os-lab2)
