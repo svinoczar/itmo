@@ -243,3 +243,7 @@
 	path = 5th-semester/operating-systems/lab2
 	url = https://github.com/svinoczaritmo/s5-os-lab2
 	branch = main
+[submodule "5th-semester/database-management-systems/lab3"]
+	path = 5th-semester/database-management-systems/lab3
+	url = https://github.com/svinoczaritmo/s5-dbms-lab3
+	branch = main
