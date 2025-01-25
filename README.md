@@ -98,3 +98,4 @@ This structure prevents github from being clogged with a bunch of small unimport
 ## Operating Systems (base track)
 - [Writing, monitoring and profiling of the command shell](https://github.com/svinoczarITMO/s5-os-lab1)
 - [Adaptive Replacement Cache (ARC) implementation](https://github.com/svinoczarITMO/s5-os-lab2)
+- [Program to retrieve information from the linux kernel](https://github.com/svinoczarITMO/s5-os-lab3)
