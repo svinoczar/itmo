@@ -251,3 +251,7 @@
 	path = 5th-semester/operating-systems/lab3
 	url = https://github.com/svinoczaritmo/s5-os-lab3
 	branch = main
+[submodule "6th-semester/multithreaded-programming/lab1"]
+	path = 6th-semester/multithreaded-programming/lab1
+	url = https://github.com/svinoczaritmo/s6-mp-lab1
+	branch = main
