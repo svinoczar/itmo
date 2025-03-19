@@ -102,3 +102,6 @@ This structure prevents github from being clogged with a bunch of small unimport
 
 ## Multithreaded Programming
 - [Dining Philosophers](https://github.com/svinoczarITMO/s6-mp-lab1)
+
+## Compiler Development
+- [Grammar Classification](https://github.com/svinoczarITMO/s6-compiler-lab1)
