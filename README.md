@@ -105,3 +105,6 @@ This structure prevents github from being clogged with a bunch of small unimport
 
 ## Compiler Development
 - [Grammar Classification](https://github.com/svinoczarITMO/s6-compiler-lab1)
+
+## Systems Theory
+- [FSM (Finite State Machine)](https://github.com/svinoczarITMO/s6-st-lab1)
