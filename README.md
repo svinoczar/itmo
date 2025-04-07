@@ -108,3 +108,4 @@ This structure prevents github from being clogged with a bunch of small unimport
 
 ## Systems Theory
 - [FSM (Finite State Machine)](https://github.com/svinoczarITMO/s6-st-lab1)
+- [Fuzzy system design](https://github.com/svinoczarITMO/s6-st-lab2)
