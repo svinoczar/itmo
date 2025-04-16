@@ -102,10 +102,11 @@ This structure prevents github from being clogged with a bunch of small unimport
 
 ## Multithreaded Programming
 - [Dining Philosophers](https://github.com/svinoczarITMO/s6-mp-lab1)
+- [Posix](https://github.com/svinoczarITMO/s6-mp-lab2)
 
 ## Compiler Development
 - [Grammar Classification](https://github.com/svinoczarITMO/s6-compiler-lab1)
--
+- [...](https://github.com/svinoczaritmo/s6-compiler-lab2)
 - [Design of an LL(1) analyzer for KC-grammar](https://github.com/svinoczarITMO/s6-compiler-lab3) 
 
 ## Systems Theory
