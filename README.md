@@ -103,6 +103,7 @@ This structure prevents github from being clogged with a bunch of small unimport
 ## Multithreaded Programming
 - [Dining Philosophers](https://github.com/svinoczarITMO/s6-mp-lab1)
 - [Posix](https://github.com/svinoczarITMO/s6-mp-lab2)
+- [Sanitizer](https://github.com/svinoczarITMO/s6-mp-lab3)
 
 ## Compiler Development
 - [Grammar Classification](https://github.com/svinoczarITMO/s6-compiler-lab1)
