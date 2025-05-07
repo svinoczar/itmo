@@ -107,8 +107,9 @@ This structure prevents github from being clogged with a bunch of small unimport
 
 ## Compiler Development
 - [Grammar Classification](https://github.com/svinoczarITMO/s6-compiler-lab1)
-- [...](https://github.com/svinoczaritmo/s6-compiler-lab2)
-- [Design of an LL(1) analyzer for KC-grammar](https://github.com/svinoczarITMO/s6-compiler-lab3) 
+- [Deterministic FSM](https://github.com/svinoczaritmo/s6-compiler-lab2)
+- [Design of an LL(1) analyzer for KC-grammar](https://github.com/svinoczarITMO/s6-compiler-lab3)
+- [Interpreter design](https://github.com/svinoczarITMO/s6-compiler-lab4) 
 
 ## Systems Theory
 - [FSM (Finite State Machine)](https://github.com/svinoczarITMO/s6-st-lab1)
