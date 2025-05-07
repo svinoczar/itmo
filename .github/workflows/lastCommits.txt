@@ -64,6 +64,7 @@ s5-os-lab3: b7fa91acdad8556a4eee10f3b9e26e29ffbbf223
 s6-compiler-lab1: 8fbb9e509066b3a01e64cce47ebed78b785d59bb
 s6-compiler-lab2: 7b0f06a7b59c044790e214ad07dfe31e72e8934f
 s6-compiler-lab3: 947dbd69cf7150dfceea0348de7b5099685ffdc1
+s6-compiler-lab4: 8aadaf5db67fb132855f9c474cd023239bf69a29
 s6-mp-lab1: b5e518d2cecfee2af3e7b0f9ab5b17a35e6a4c12
 s6-mp-lab2: 9b96e1d59edebb836c1b147c597ca101bdd052c9
 s6-mp-lab3: 14a090c2ce2aaea9d114c2b2d3fba75faed5549d
