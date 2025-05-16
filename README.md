@@ -104,6 +104,7 @@ This structure prevents github from being clogged with a bunch of small unimport
 - [Dining Philosophers](https://github.com/svinoczarITMO/s6-mp-lab1)
 - [Posix](https://github.com/svinoczarITMO/s6-mp-lab2)
 - [Sanitizer](https://github.com/svinoczarITMO/s6-mp-lab3)
+- [Lock-Free](https://github.com/svinoczarITMO/s6-mp-lab4)
 
 ## Compiler Development
 - [Grammar Classification](https://github.com/svinoczarITMO/s6-compiler-lab1)
