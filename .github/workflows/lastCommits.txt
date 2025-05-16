@@ -68,6 +68,7 @@ s6-compiler-lab4: 8aadaf5db67fb132855f9c474cd023239bf69a29
 s6-mp-lab1: b5e518d2cecfee2af3e7b0f9ab5b17a35e6a4c12
 s6-mp-lab2: 9b96e1d59edebb836c1b147c597ca101bdd052c9
 s6-mp-lab3: 14a090c2ce2aaea9d114c2b2d3fba75faed5549d
+s6-mp-lab4: 5745f7be28eadd2d23589695c08e7fb4a5f70c2a
 s6-neuro-project: 105ceabc3cfceba6cb2f64dd8568dd8cdb4a0510
 s6-st-lab1: 13d4d7d84148195eabb0ec380d43f5e02879aebe
 s6-st-lab2: 01264563a9ed693459c4ec9ff715823e1a3b5bb5
