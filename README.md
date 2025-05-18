@@ -117,6 +117,8 @@ This structure prevents github from being clogged with a bunch of small unimport
 - [Fuzzy system design](https://github.com/svinoczarITMO/s6-st-lab2)
 - [Markov chain](https://github.com/svinoczarITMO/s6-st-lab3)
 - [Estimation of parameters of the math model](https://github.com/svinoczarITMO/s6-st-lab4)
+- [Control systems research](https://github.com/svinoczarITMO/s6-st-lab5)
+- [Cellular automaton modeling (Game of Life)](https://github.com/svinoczarITMO/s6-st-lab6)
 
 ## Neurotechnology and affective computing
 - [Step 4 (Project)](https://github.com/svinoczarITMO/s6-neuro-project)
