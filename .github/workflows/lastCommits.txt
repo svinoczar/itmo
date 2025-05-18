@@ -73,3 +73,4 @@ s6-neuro-project: 105ceabc3cfceba6cb2f64dd8568dd8cdb4a0510
 s6-st-lab1: 13d4d7d84148195eabb0ec380d43f5e02879aebe
 s6-st-lab2: 01264563a9ed693459c4ec9ff715823e1a3b5bb5
 s6-st-lab3: 43488c9cfa2ac00a4133b37fde958788444eff25
+s6-st-lab4: 3ffa8e97a555cbbaa0a925bb5e6117bed82592cb
