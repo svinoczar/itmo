@@ -126,3 +126,6 @@ This structure prevents github from being clogged with a bunch of small unimport
 ## Modeling
 - [CPU modeling via AnyLogic](https://github.com/svinoczarITMO/s7-modeling-lab1)
 - [PC virus spread modeling via AnyLogic](https://github.com/svinoczarITMO/s7-modeling-lab2)
+
+## Neurointerfaces
+- [Arduino Data Recorder](https://github.com/svinoczarITMO/s7-neurointerfaces-recorder)
