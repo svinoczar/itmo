@@ -122,3 +122,7 @@ This structure prevents github from being clogged with a bunch of small unimport
 
 ## Neurotechnology and affective computing
 - [Step 4 (Project)](https://github.com/svinoczarITMO/s6-neuro-project)
+
+## Modeling
+- [CPU modeling via AnyLogic](https://github.com/svinoczarITMO/s7-modeling-lab1)
+- [PC virus spread modeling via AnyLogic](https://github.com/svinoczarITMO/s7-modeling-lab2)
