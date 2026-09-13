@@ -129,3 +129,9 @@ This structure prevents github from being clogged with a bunch of small unimport
 
 ## Neurointerfaces
 - [Arduino Data Recorder](https://github.com/svinoczarITMO/s7-neurointerfaces-recorder)
+
+## Data Analysis
+- [Preprocessing](https://github.com/svinoczarITMO/s7-da-lab1)
+- [EDA](https://github.com/svinoczarITMO/s7-da-lab2)
+- [Visualization](https://github.com/svinoczarITMO/s7-da-lab3)
+- [Prediction & modeling](https://github.com/svinoczarITMO/s7-da-lab4)
